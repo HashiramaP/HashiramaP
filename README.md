@@ -25,9 +25,5 @@ I am a full-time student in Software Engineering and currently working as a Proj
 ![HTML](https://img.shields.io/badge/HTML5-5-orange)
 ![CSS](https://img.shields.io/badge/CSS3-3.6.0-blue)
 
-## Interests
-- Day Trading
-- Machine Learning
-
 ## Contact
 Feel free to reach out to me at [parsa.homayouni.inc@gmail.com].
