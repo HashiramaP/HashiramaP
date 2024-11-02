@@ -30,5 +30,5 @@
 
 <h2>Contact</h2>
 <p>Feel free to reach out to me at <a href="mailto:parsa.homayouni.inc@example.com">parsa.homayouni.inc@example.com</a>.</p>
-<p> Connect with me on <a href="https://www.linkedin.com/in/your-linkedin-username/" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" alt="LinkedIn">LinkedIn</a></p>
+<p> Connect with me on <a href="https://www.linkedin.com/in/parsa-homayouni-qc/" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" alt="LinkedIn">LinkedIn</a></p>
 
