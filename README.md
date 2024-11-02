@@ -28,6 +28,8 @@
     <a href="https://pytorch.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="30" style="vertical-align: middle; margin-right: 5px;" alt="PyTorch" /></a>
 </p>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HashiramaP&layout=compact&theme=default)
+
 <h2>Contact</h2>
 <p>Feel free to reach out to me at <a href="mailto:parsa.homayouni.inc@gmail.com">parsa.homayouni.inc@gmail.com</a>.</p>
 <p>
