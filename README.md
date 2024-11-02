@@ -11,18 +11,12 @@
     <a href="https://isocpp.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="30" style="vertical-align: middle; margin-right: 5px;" alt="C++" /></a>
     <a href="https://www.java.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30" style="vertical-align: middle; margin-right: 5px;" alt="Java" /></a>
     <a href="https://www.javascript.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" style="vertical-align: middle; margin-right: 5px;" alt="JavaScript" /></a>
-</p>
-<p>
     <a href="https://reactjs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" style="vertical-align: middle; margin-right: 5px;" alt="React" /></a>
     <a href="https://vuejs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="30" style="vertical-align: middle; margin-right: 5px;" alt="Vue" /></a>
     <a href="https://nextjs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="30" style="vertical-align: middle; margin-right: 5px;" alt="Next.js" /></a>
     <a href="https://tailwindcss.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="30" style="vertical-align: middle; margin-right: 5px;" alt="Tailwind CSS" /></a>
-</p>
-<p>
     <a href="https://www.postgresql.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="30" style="vertical-align: middle; margin-right: 5px;" alt="PostgreSQL" /></a>
     <a href="https://www.mysql.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30" style="vertical-align: middle; margin-right: 5px;" alt="MySQL" /></a>
-</p>
-<p>
     <a href="https://www.mathworks.com/products/matlab.html"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="30" style="vertical-align: middle; margin-right: 5px;" alt="MATLAB" /></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" style="vertical-align: middle; margin-right: 5px;" alt="HTML" /></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" style="vertical-align: middle; margin-right: 5px;" alt="CSS" /></a>
