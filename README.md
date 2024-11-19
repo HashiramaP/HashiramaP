@@ -2,7 +2,7 @@
 
 <h2>About Me</h2>
 <p>
-    I am a full-time student in Software Engineering and currently working as a Project Lead and Full-Stack Developer at Resonetics. In addition to my studies and work, I engage in day trading and I'm also learning about machine learning.
+    I am a full-time student in Software Engineering and currently working as a Project Lead and Full-Stack Developer at Resonetics. In addition to my studies and work, I engage in day trading and machine learning.
 </p>
 
 <h2>Skills</h2>
