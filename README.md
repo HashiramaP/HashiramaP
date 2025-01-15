@@ -31,6 +31,7 @@
 </p>
 
 <h2>Contact</h2>
+<a href="https://docs.google.com/document/d/e/2PACX-1vTbJeY5JS6vbHw5dIqO6zT3EqyLIQO6mz22kMSmyiIe0RT6OQLkyiKIM2JtldSYU14__gh--HzkhJga/pub"> My Resume</a>
 <p>Feel free to reach out to me at <a href="mailto:parsa.homayouni.inc@gmail.com">parsa.homayouni.inc@gmail.com</a>.</p>
 <p>
     <a href="https://www.linkedin.com/in/parsa-homayouni-qc/" target="_blank">
