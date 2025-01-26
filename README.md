@@ -23,11 +23,8 @@
     <a href="https://www.postgresql.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="30" style="vertical-align: middle; margin-right: 5px;" alt="PostgreSQL" /></a>
     <a href="https://www.mysql.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30" style="vertical-align: middle; margin-right: 5px;" alt="MySQL" /></a>
     <a href="https://www.mathworks.com/products/matlab.html"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="30" style="vertical-align: middle; margin-right: 5px;" alt="MATLAB" /></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" style="vertical-align: middle; margin-right: 5px;" alt="HTML" /></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" style="vertical-align: middle; margin-right: 5px;" alt="CSS" /></a>
     <a href="https://www.docker.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30" style="vertical-align: middle; margin-right: 5px;" alt="Docker" /></a>
     <a href="https://git-scm.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" style="vertical-align: middle; margin-right: 5px;" alt="Git" /></a>
-    <a href="https://www.postman.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="30" style="vertical-align: middle; margin-right: 5px;" alt="Postman" /></a>
 </p>
 
 <h2>Contact</h2>
