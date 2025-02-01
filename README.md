@@ -1,10 +1,3 @@
-<h1>Hi, I'm Parsa 👋</h1>
-
-<h2>About Me</h2>
-<p>
-    I am a full-time student in Software Engineering and currently working as a Project Lead and Full-Stack Developer at Resonetics. In addition to my studies and work, I engage in day trading and machine learning.
-</p>
-
 <h2>Skills</h2>
 <p>
     <a href="https://www.tensorflow.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="30" style="vertical-align: middle; margin-right: 5px;" alt="TensorFlow" /></a>
