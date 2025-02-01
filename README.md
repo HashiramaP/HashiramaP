@@ -1,27 +1,6 @@
-<h2>Skills</h2>
-<p>
-    <a href="https://www.tensorflow.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="30" style="vertical-align: middle; margin-right: 5px;" alt="TensorFlow" /></a>
-    <a href="https://pytorch.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="30" style="vertical-align: middle; margin-right: 5px;" alt="PyTorch" /></a>
-    <a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" style="vertical-align: middle; margin-right: 5px;" alt="Python" /></a>
-    <a href="https://isocpp.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="30" style="vertical-align: middle; margin-right: 5px;" alt="C++" /></a>
-    <a href="https://www.java.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30" style="vertical-align: middle; margin-right: 5px;" alt="Java" /></a>
-    <a href="https://www.javascript.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" style="vertical-align: middle; margin-right: 5px;" alt="JavaScript" /></a>
-    <a href="https://www.typescriptlang.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30" style="vertical-align: middle; margin-right: 5px;" alt="TypeScript" /></a>
-    <a href="https://www.raspberrypi.com/documentation/computers/linux.html"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="30" style="vertical-align: middle; margin-right: 5px;" alt="Linux" /></a>
-    <a href="https://www.bash.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="30" style="vertical-align: middle; margin-right: 5px;" alt="Bash" /></a>
-    <a href="https://reactjs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" style="vertical-align: middle; margin-right: 5px;" alt="React" /></a>
-    <a href="https://vuejs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="30" style="vertical-align: middle; margin-right: 5px;" alt="Vue" /></a>
-    <a href="https://nextjs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="30" style="vertical-align: middle; margin-right: 5px;" alt="Next.js" /></a>
-    <a href="https://tailwindcss.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="30" style="vertical-align: middle; margin-right: 5px;" alt="Tailwind CSS" /></a>
-    <a href="https://www.postgresql.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="30" style="vertical-align: middle; margin-right: 5px;" alt="PostgreSQL" /></a>
-    <a href="https://www.mysql.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30" style="vertical-align: middle; margin-right: 5px;" alt="MySQL" /></a>
-    <a href="https://www.mathworks.com/products/matlab.html"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="30" style="vertical-align: middle; margin-right: 5px;" alt="MATLAB" /></a>
-    <a href="https://www.docker.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30" style="vertical-align: middle; margin-right: 5px;" alt="Docker" /></a>
-    <a href="https://git-scm.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" style="vertical-align: middle; margin-right: 5px;" alt="Git" /></a>
-</p>
+
 
 <h2>Contact</h2>
-<a href="https://docs.google.com/document/d/14nlP-_xXYE_PA48syu3Yt4NHHaTD-zr1TV2T6OFcYIE/edit?usp=sharing"> My Resume</a>
 <br>
 <p>Feel free to reach out to me at <a href="mailto:parsa.homayouni.inc@gmail.com">parsa.homayouni.inc@gmail.com</a>.</p>
 <p>
